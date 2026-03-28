@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (optional — include if small, exclude if large)
+# models/*.pkl
+
+# OS
+.DS_Store
